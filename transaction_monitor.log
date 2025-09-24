@@ -1,0 +1,319 @@
+2025-09-24 11:09:27,574 - INFO - Monitoring wallet: TKVpWP26gBbpXsrxXGkKnEnnZF6HFcSJMj
+2025-09-24 11:09:27,576 - INFO - Telegram Chat ID: -1002319280540
+2025-09-24 11:09:27,577 - INFO - Starting TronScan Transaction Monitor...
+2025-09-24 11:09:28,457 - ERROR - Error sending Telegram message: 404 Client Error: Not Found for url: https://api.telegram.org/botyour_bot_token7262840341:AAFKrnhX4SvTLsyAaOFNpGllIbNzh6ZyuEM/sendMessage
+2025-09-24 11:09:28,460 - INFO - Checking for new transactions...
+2025-09-24 11:09:29,491 - INFO - Fetched 1 transactions from TronScan
+2025-09-24 11:09:30,536 - INFO - Fetched 1 token transfers from TronScan
+2025-09-24 11:09:30,538 - INFO - No new transactions found
+2025-09-24 11:09:30,539 - INFO - Waiting 60 seconds until next check...
+2025-09-24 11:14:05,747 - INFO - Monitoring wallet: TCLgK89AnXbC9rewvhNb9UgXCc2qJJpBXh
+2025-09-24 11:14:05,748 - INFO - Telegram Chat ID: -1002319280540
+2025-09-24 11:14:05,748 - INFO - Starting TronScan Transaction Monitor...
+2025-09-24 11:14:06,761 - INFO - Telegram notification sent successfully
+2025-09-24 11:14:06,765 - INFO - Checking for new transactions...
+2025-09-24 11:14:07,800 - INFO - Fetched 50 transactions from TronScan
+2025-09-24 11:14:07,805 - ERROR - Error formatting transaction message: unsupported operand type(s) for /: 'str' and 'int'
+2025-09-24 11:14:08,815 - INFO - Telegram notification sent successfully
+2025-09-24 11:14:09,817 - ERROR - Error formatting transaction message: unsupported operand type(s) for /: 'str' and 'int'
+2025-09-24 11:14:10,833 - INFO - Telegram notification sent successfully
+2025-09-24 11:14:11,835 - ERROR - Error formatting transaction message: unsupported operand type(s) for /: 'str' and 'int'
+2025-09-24 11:14:12,931 - INFO - Telegram notification sent successfully
+2025-09-24 11:14:13,934 - ERROR - Error formatting transaction message: unsupported operand type(s) for /: 'str' and 'int'
+2025-09-24 11:14:14,927 - INFO - Telegram notification sent successfully
+2025-09-24 11:14:15,930 - ERROR - Error formatting transaction message: unsupported operand type(s) for /: 'str' and 'int'
+2025-09-24 11:14:16,916 - INFO - Telegram notification sent successfully
+2025-09-24 11:14:17,918 - ERROR - Error formatting transaction message: unsupported operand type(s) for /: 'str' and 'int'
+2025-09-24 11:14:18,927 - INFO - Telegram notification sent successfully
+2025-09-24 11:14:19,929 - ERROR - Error formatting transaction message: unsupported operand type(s) for /: 'str' and 'int'
+2025-09-24 11:14:20,978 - INFO - Telegram notification sent successfully
+2025-09-24 11:14:21,981 - ERROR - Error formatting transaction message: unsupported operand type(s) for /: 'str' and 'int'
+2025-09-24 11:14:22,961 - INFO - Telegram notification sent successfully
+2025-09-24 11:14:23,967 - ERROR - Error formatting transaction message: unsupported operand type(s) for /: 'str' and 'int'
+2025-09-24 11:14:24,975 - INFO - Telegram notification sent successfully
+2025-09-24 11:14:25,977 - ERROR - Error formatting transaction message: unsupported operand type(s) for /: 'str' and 'int'
+2025-09-24 11:14:27,009 - INFO - Telegram notification sent successfully
+2025-09-24 11:14:28,012 - ERROR - Error formatting transaction message: unsupported operand type(s) for /: 'str' and 'int'
+2025-09-24 11:14:29,002 - INFO - Telegram notification sent successfully
+2025-09-24 11:14:29,708 - INFO - Monitor stopped by user
+2025-09-24 11:28:04,641 - INFO - Monitoring wallet: TCLgK89AnXbC9rewvhNb9UgXCc2qJJpBXh
+2025-09-24 11:28:04,642 - INFO - Telegram Chat ID: -1002319280540
+2025-09-24 11:28:04,642 - INFO - Starting TronScan Transaction Monitor...
+2025-09-24 11:30:52,370 - INFO - Monitoring wallet: TCLgK89AnXbC9rewvhNb9UgXCc2qJJpBXh
+2025-09-24 11:30:52,370 - INFO - Telegram Chat ID: -1002319280540
+2025-09-24 11:30:52,371 - INFO - Starting TronScan Transaction Monitor...
+2025-09-24 11:31:21,572 - INFO - Monitoring wallet: TCLgK89AnXbC9rewvhNb9UgXCc2qJJpBXh
+2025-09-24 11:31:21,572 - INFO - Telegram Chat ID: -1002319280540
+2025-09-24 11:31:21,572 - INFO - Starting TronScan Transaction Monitor...
+2025-09-24 11:31:22,673 - INFO - Telegram notification sent successfully
+2025-09-24 11:31:23,743 - INFO - Telegram notification sent successfully
+2025-09-24 11:31:23,745 - INFO - Checking for new transactions...
+2025-09-24 11:31:24,751 - INFO - Fetched 50 transactions from TronScan
+2025-09-24 11:31:25,738 - INFO - Telegram notification sent successfully
+2025-09-24 11:31:27,705 - INFO - Telegram notification sent successfully
+2025-09-24 11:31:29,713 - INFO - Telegram notification sent successfully
+2025-09-24 11:31:31,714 - INFO - Telegram notification sent successfully
+2025-09-24 11:31:33,739 - INFO - Telegram notification sent successfully
+2025-09-24 11:31:37,059 - INFO - Telegram notification sent successfully
+2025-09-24 11:31:39,734 - INFO - Telegram notification sent successfully
+2025-09-24 11:31:41,967 - INFO - Telegram notification sent successfully
+2025-09-24 11:31:44,100 - INFO - Telegram notification sent successfully
+2025-09-24 11:31:46,617 - INFO - Telegram notification sent successfully
+2025-09-24 11:31:48,648 - INFO - Telegram notification sent successfully
+2025-09-24 11:31:50,770 - INFO - Telegram notification sent successfully
+2025-09-24 11:31:52,864 - INFO - Telegram notification sent successfully
+2025-09-24 11:31:56,288 - INFO - Telegram notification sent successfully
+2025-09-24 11:31:59,153 - INFO - Telegram notification sent successfully
+2025-09-24 11:32:01,549 - INFO - Telegram notification sent successfully
+2025-09-24 11:32:04,139 - INFO - Telegram notification sent successfully
+2025-09-24 11:32:06,399 - INFO - Telegram notification sent successfully
+2025-09-24 11:32:08,472 - ERROR - Error sending Telegram message: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot7262840341:AAFKrnhX4SvTLsyAaOFNpGllIbNzh6ZyuEM/sendMessage
+2025-09-24 11:32:11,555 - ERROR - Error sending Telegram message: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot7262840341:AAFKrnhX4SvTLsyAaOFNpGllIbNzh6ZyuEM/sendMessage
+2025-09-24 11:32:13,726 - ERROR - Error sending Telegram message: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot7262840341:AAFKrnhX4SvTLsyAaOFNpGllIbNzh6ZyuEM/sendMessage
+2025-09-24 11:32:22,126 - ERROR - Error sending Telegram message: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot7262840341:AAFKrnhX4SvTLsyAaOFNpGllIbNzh6ZyuEM/sendMessage
+2025-09-24 11:32:24,395 - INFO - Telegram notification sent successfully
+2025-09-24 11:32:26,517 - INFO - Telegram notification sent successfully
+2025-09-24 11:32:28,587 - INFO - Telegram notification sent successfully
+2025-09-24 11:32:31,821 - INFO - Telegram notification sent successfully
+2025-09-24 11:32:34,853 - INFO - Telegram notification sent successfully
+2025-09-24 11:32:36,991 - INFO - Telegram notification sent successfully
+2025-09-24 11:32:39,477 - INFO - Telegram notification sent successfully
+2025-09-24 11:32:41,591 - INFO - Telegram notification sent successfully
+2025-09-24 11:32:44,449 - INFO - Telegram notification sent successfully
+2025-09-24 11:32:46,587 - INFO - Telegram notification sent successfully
+2025-09-24 11:32:49,187 - INFO - Telegram notification sent successfully
+2025-09-24 11:32:50,779 - INFO - Monitor stopped by user
+2025-09-24 11:43:49,298 - INFO - Monitoring wallet: TCLgK89AnXbC9rewvhNb9UgXCc2qJJpBXh
+2025-09-24 11:43:49,307 - INFO - Telegram Chat ID: -1002319280540
+2025-09-24 11:43:49,307 - INFO - Starting TronScan Transaction Monitor...
+2025-09-24 11:43:51,130 - INFO - Telegram notification sent successfully
+2025-09-24 11:43:52,109 - INFO - Telegram notification sent successfully
+2025-09-24 11:43:52,111 - INFO - Checking for new transactions...
+2025-09-24 11:43:53,144 - INFO - Fetched 50 transactions from TronScan
+2025-09-24 11:43:54,129 - INFO - Telegram notification sent successfully
+2025-09-24 11:43:56,196 - INFO - Telegram notification sent successfully
+2025-09-24 11:43:58,212 - INFO - Telegram notification sent successfully
+2025-09-24 11:44:00,203 - INFO - Telegram notification sent successfully
+2025-09-24 11:44:02,167 - INFO - Telegram notification sent successfully
+2025-09-24 11:44:04,647 - INFO - Telegram notification sent successfully
+2025-09-24 11:44:09,690 - INFO - Telegram notification sent successfully
+2025-09-24 11:44:11,099 - INFO - Monitor stopped by user
+2025-09-24 11:47:07,818 - INFO - Monitoring wallet: TCLgK89AnXbC9rewvhNb9UgXCc2qJJpBXh
+2025-09-24 11:47:07,818 - INFO - Telegram Chat ID: -1002319280540
+2025-09-24 11:47:07,818 - INFO - Starting TronScan Transaction Monitor...
+2025-09-24 11:47:08,808 - INFO - Telegram notification sent successfully
+2025-09-24 11:47:08,810 - INFO - Checking for new transactions...
+2025-09-24 11:47:10,366 - INFO - Fetched 20 total token transfers from TronScan
+2025-09-24 11:47:11,407 - INFO - Telegram notification sent successfully
+2025-09-24 11:47:13,814 - INFO - Telegram notification sent successfully
+2025-09-24 11:47:15,823 - INFO - Telegram notification sent successfully
+2025-09-24 11:47:18,122 - INFO - Telegram notification sent successfully
+2025-09-24 11:47:20,370 - INFO - Telegram notification sent successfully
+2025-09-24 11:47:22,530 - INFO - Telegram notification sent successfully
+2025-09-24 11:47:24,745 - INFO - Telegram notification sent successfully
+2025-09-24 11:47:26,865 - INFO - Telegram notification sent successfully
+2025-09-24 11:47:28,932 - INFO - Telegram notification sent successfully
+2025-09-24 11:47:31,412 - INFO - Telegram notification sent successfully
+2025-09-24 11:47:33,460 - INFO - Telegram notification sent successfully
+2025-09-24 11:47:35,596 - INFO - Telegram notification sent successfully
+2025-09-24 11:47:38,385 - INFO - Telegram notification sent successfully
+2025-09-24 11:47:40,758 - INFO - Telegram notification sent successfully
+2025-09-24 11:47:42,802 - INFO - Telegram notification sent successfully
+2025-09-24 11:47:44,791 - INFO - Telegram notification sent successfully
+2025-09-24 11:47:46,789 - INFO - Telegram notification sent successfully
+2025-09-24 11:47:48,800 - INFO - Telegram notification sent successfully
+2025-09-24 11:47:50,796 - INFO - Telegram notification sent successfully
+2025-09-24 11:47:52,758 - ERROR - Error sending Telegram message: 429 Client Error: Too Many Requests for url: https://api.telegram.org/bot7262840341:AAFKrnhX4SvTLsyAaOFNpGllIbNzh6ZyuEM/sendMessage
+2025-09-24 11:47:53,762 - INFO - Found and processed 20 new transactions
+2025-09-24 11:47:53,767 - INFO - Waiting 60 seconds until next check...
+2025-09-24 11:48:53,842 - INFO - Checking for new transactions...
+2025-09-24 11:48:55,781 - INFO - Fetched 20 total token transfers from TronScan
+2025-09-24 11:48:56,916 - INFO - Telegram notification sent successfully
+2025-09-24 11:48:59,487 - INFO - Telegram notification sent successfully
+2025-09-24 11:49:03,367 - INFO - Telegram notification sent successfully
+2025-09-24 11:49:05,392 - INFO - Telegram notification sent successfully
+2025-09-24 11:49:08,331 - INFO - Telegram notification sent successfully
+2025-09-24 11:49:11,581 - INFO - Telegram notification sent successfully
+2025-09-24 11:49:13,699 - INFO - Telegram notification sent successfully
+2025-09-24 11:49:16,703 - INFO - Telegram notification sent successfully
+2025-09-24 11:49:18,842 - INFO - Telegram notification sent successfully
+2025-09-24 11:49:21,492 - INFO - Telegram notification sent successfully
+2025-09-24 11:49:23,846 - INFO - Telegram notification sent successfully
+2025-09-24 11:49:25,897 - INFO - Telegram notification sent successfully
+2025-09-24 11:49:27,993 - INFO - Telegram notification sent successfully
+2025-09-24 11:49:30,005 - INFO - Telegram notification sent successfully
+2025-09-24 11:49:32,149 - INFO - Telegram notification sent successfully
+2025-09-24 11:49:34,156 - INFO - Telegram notification sent successfully
+2025-09-24 11:49:36,172 - INFO - Telegram notification sent successfully
+2025-09-24 11:49:38,164 - INFO - Telegram notification sent successfully
+2025-09-24 11:49:39,167 - INFO - Found and processed 18 new transactions
+2025-09-24 11:49:39,168 - INFO - Waiting 60 seconds until next check...
+2025-09-24 11:50:19,289 - INFO - Monitor stopped by user
+2025-09-24 11:56:42,562 - INFO - Monitoring wallet: TKVpWP26gBbpXsrxXGkKnEnnZF6HFcSJMj
+2025-09-24 11:56:42,562 - INFO - Telegram Chat ID: -1002319280540
+2025-09-24 11:56:42,562 - INFO - Starting TronScan Transaction Monitor...
+2025-09-24 11:56:43,752 - INFO - Telegram notification sent successfully
+2025-09-24 11:56:43,755 - INFO - Checking for new transactions...
+2025-09-24 11:56:45,342 - INFO - Fetched 0 total token transfers from TronScan
+2025-09-24 11:56:45,344 - INFO - No new transactions found
+2025-09-24 11:56:45,344 - INFO - Waiting 60 seconds until next check...
+2025-09-24 11:57:45,346 - INFO - Checking for new transactions...
+2025-09-24 11:57:46,846 - INFO - Fetched 0 total token transfers from TronScan
+2025-09-24 11:57:46,848 - INFO - No new transactions found
+2025-09-24 11:57:46,849 - INFO - Waiting 60 seconds until next check...
+2025-09-24 11:58:46,850 - INFO - Checking for new transactions...
+2025-09-24 11:58:48,329 - INFO - Fetched 0 total token transfers from TronScan
+2025-09-24 11:58:48,330 - INFO - No new transactions found
+2025-09-24 11:58:48,330 - INFO - Waiting 60 seconds until next check...
+2025-09-24 11:59:48,332 - INFO - Checking for new transactions...
+2025-09-24 11:59:50,022 - INFO - Fetched 0 total token transfers from TronScan
+2025-09-24 11:59:50,024 - INFO - No new transactions found
+2025-09-24 11:59:50,027 - INFO - Waiting 60 seconds until next check...
+2025-09-24 12:00:42,160 - INFO - Monitor stopped by user
+2025-09-24 12:00:44,457 - INFO - Monitoring wallet: TKVpWP26gBbpXsrxXGkKnEnnZF6HFcSJMj
+2025-09-24 12:00:44,458 - INFO - Telegram Chat ID: -1002319280540
+2025-09-24 12:00:44,458 - INFO - Starting TronScan Transaction Monitor...
+2025-09-24 12:00:45,497 - INFO - Telegram notification sent successfully
+2025-09-24 12:00:45,499 - INFO - Checking for new transactions...
+2025-09-24 12:00:46,986 - INFO - Fetched 0 total token transfers from TronScan
+2025-09-24 12:00:46,987 - INFO - No new transactions found
+2025-09-24 12:00:46,988 - INFO - Waiting 60 seconds until next check...
+2025-09-24 12:01:46,989 - INFO - Checking for new transactions...
+2025-09-24 12:01:48,628 - INFO - Fetched 0 total token transfers from TronScan
+2025-09-24 12:01:48,630 - INFO - No new transactions found
+2025-09-24 12:01:48,630 - INFO - Waiting 60 seconds until next check...
+2025-09-24 12:02:48,631 - INFO - Checking for new transactions...
+2025-09-24 12:02:50,093 - INFO - Fetched 0 total token transfers from TronScan
+2025-09-24 12:02:50,095 - INFO - No new transactions found
+2025-09-24 12:02:50,095 - INFO - Waiting 60 seconds until next check...
+2025-09-24 12:03:50,097 - INFO - Checking for new transactions...
+2025-09-24 12:03:51,568 - INFO - Fetched 0 total token transfers from TronScan
+2025-09-24 12:03:51,570 - INFO - No new transactions found
+2025-09-24 12:03:51,570 - INFO - Waiting 60 seconds until next check...
+2025-09-24 12:04:51,571 - INFO - Checking for new transactions...
+2025-09-24 12:04:53,046 - INFO - Fetched 0 total token transfers from TronScan
+2025-09-24 12:04:53,047 - INFO - No new transactions found
+2025-09-24 12:04:53,047 - INFO - Waiting 60 seconds until next check...
+2025-09-24 12:05:53,052 - INFO - Checking for new transactions...
+2025-09-24 12:05:54,625 - INFO - Fetched 0 total token transfers from TronScan
+2025-09-24 12:05:54,627 - INFO - No new transactions found
+2025-09-24 12:05:54,627 - INFO - Waiting 60 seconds until next check...
+2025-09-24 12:06:33,163 - INFO - Monitor stopped by user
+2025-09-24 12:06:35,272 - INFO - Monitoring wallet: TKVpWP26gBbpXsrxXGkKnEnnZF6HFcSJMj
+2025-09-24 12:06:35,272 - INFO - Telegram Chat ID: -1002319280540
+2025-09-24 12:06:35,272 - INFO - Starting TronScan Transaction Monitor...
+2025-09-24 12:06:36,260 - INFO - Telegram notification sent successfully
+2025-09-24 12:06:36,263 - INFO - Checking for new transactions...
+2025-09-24 12:06:37,709 - INFO - Fetched 2 total token transfers from TronScan
+2025-09-24 12:06:37,710 - INFO - No new transactions found
+2025-09-24 12:06:37,711 - INFO - Waiting 60 seconds until next check...
+2025-09-24 12:07:37,712 - INFO - Checking for new transactions...
+2025-09-24 12:07:39,195 - INFO - Fetched 3 total token transfers from TronScan
+2025-09-24 12:07:40,197 - INFO - Telegram notification sent successfully
+2025-09-24 12:07:41,200 - INFO - Found and processed 1 new transactions
+2025-09-24 12:07:41,201 - INFO - Waiting 60 seconds until next check...
+2025-09-24 12:08:41,225 - INFO - Checking for new transactions...
+2025-09-24 12:08:44,514 - INFO - Fetched 3 total token transfers from TronScan
+2025-09-24 12:08:44,516 - INFO - No new transactions found
+2025-09-24 12:08:44,517 - INFO - Waiting 60 seconds until next check...
+2025-09-24 12:09:44,520 - INFO - Checking for new transactions...
+2025-09-24 12:09:46,081 - INFO - Fetched 3 total token transfers from TronScan
+2025-09-24 12:09:46,083 - INFO - No new transactions found
+2025-09-24 12:09:46,083 - INFO - Waiting 60 seconds until next check...
+2025-09-24 12:10:46,085 - INFO - Checking for new transactions...
+2025-09-24 12:10:47,916 - INFO - Fetched 3 total token transfers from TronScan
+2025-09-24 12:10:47,945 - INFO - No new transactions found
+2025-09-24 12:10:47,983 - INFO - Waiting 60 seconds until next check...
+2025-09-24 12:11:48,154 - INFO - Checking for new transactions...
+2025-09-24 12:11:50,500 - INFO - Fetched 4 total token transfers from TronScan
+2025-09-24 12:11:51,591 - INFO - Telegram notification sent successfully
+2025-09-24 12:11:52,616 - INFO - Found and processed 1 new transactions
+2025-09-24 12:11:52,616 - INFO - Waiting 60 seconds until next check...
+2025-09-24 12:12:52,621 - INFO - Checking for new transactions...
+2025-09-24 12:12:54,652 - INFO - Fetched 4 total token transfers from TronScan
+2025-09-24 12:12:54,666 - INFO - No new transactions found
+2025-09-24 12:12:54,710 - INFO - Waiting 60 seconds until next check...
+2025-09-24 12:13:54,736 - INFO - Checking for new transactions...
+2025-09-24 12:13:56,199 - INFO - Fetched 4 total token transfers from TronScan
+2025-09-24 12:13:56,201 - INFO - No new transactions found
+2025-09-24 12:13:56,202 - INFO - Waiting 60 seconds until next check...
+2025-09-24 12:14:56,202 - INFO - Checking for new transactions...
+2025-09-24 12:14:57,690 - INFO - Fetched 4 total token transfers from TronScan
+2025-09-24 12:14:57,691 - INFO - No new transactions found
+2025-09-24 12:14:57,692 - INFO - Waiting 60 seconds until next check...
+2025-09-24 12:15:57,693 - INFO - Checking for new transactions...
+2025-09-24 12:15:59,160 - INFO - Fetched 4 total token transfers from TronScan
+2025-09-24 12:15:59,180 - INFO - No new transactions found
+2025-09-24 12:15:59,194 - INFO - Waiting 60 seconds until next check...
+2025-09-24 12:16:59,197 - INFO - Checking for new transactions...
+2025-09-24 12:17:00,694 - INFO - Fetched 4 total token transfers from TronScan
+2025-09-24 12:17:00,695 - INFO - No new transactions found
+2025-09-24 12:17:00,696 - INFO - Waiting 60 seconds until next check...
+2025-09-24 13:17:56,423 - INFO - Checking for new transactions...
+2025-09-24 13:17:58,300 - INFO - Fetched 4 total token transfers from TronScan
+2025-09-24 13:17:58,302 - INFO - No new transactions found
+2025-09-24 13:17:58,302 - INFO - Waiting 60 seconds until next check...
+2025-09-24 13:18:58,303 - INFO - Checking for new transactions...
+2025-09-24 13:18:59,796 - INFO - Fetched 4 total token transfers from TronScan
+2025-09-24 13:18:59,804 - INFO - No new transactions found
+2025-09-24 13:18:59,804 - INFO - Waiting 60 seconds until next check...
+2025-09-24 13:19:59,806 - INFO - Checking for new transactions...
+2025-09-24 13:20:01,281 - INFO - Fetched 4 total token transfers from TronScan
+2025-09-24 13:20:01,282 - INFO - No new transactions found
+2025-09-24 13:20:01,282 - INFO - Waiting 60 seconds until next check...
+2025-09-24 13:21:01,284 - INFO - Checking for new transactions...
+2025-09-24 13:21:02,966 - INFO - Fetched 4 total token transfers from TronScan
+2025-09-24 13:21:03,049 - INFO - No new transactions found
+2025-09-24 13:21:03,050 - INFO - Waiting 60 seconds until next check...
+2025-09-24 13:22:03,051 - INFO - Checking for new transactions...
+2025-09-24 13:22:04,622 - INFO - Fetched 4 total token transfers from TronScan
+2025-09-24 13:22:04,626 - INFO - No new transactions found
+2025-09-24 13:22:04,626 - INFO - Waiting 60 seconds until next check...
+2025-09-24 13:23:04,635 - INFO - Checking for new transactions...
+2025-09-24 13:23:06,272 - INFO - Fetched 4 total token transfers from TronScan
+2025-09-24 13:23:06,274 - INFO - No new transactions found
+2025-09-24 13:23:06,274 - INFO - Waiting 60 seconds until next check...
+2025-09-24 13:24:06,275 - INFO - Checking for new transactions...
+2025-09-24 13:24:07,750 - INFO - Fetched 4 total token transfers from TronScan
+2025-09-24 13:24:07,752 - INFO - No new transactions found
+2025-09-24 13:24:07,752 - INFO - Waiting 60 seconds until next check...
+2025-09-24 13:25:07,753 - INFO - Checking for new transactions...
+2025-09-24 13:25:09,266 - INFO - Fetched 4 total token transfers from TronScan
+2025-09-24 13:25:09,268 - INFO - No new transactions found
+2025-09-24 13:25:09,268 - INFO - Waiting 60 seconds until next check...
+2025-09-24 13:25:13,118 - INFO - Monitor stopped by user
+2025-09-24 13:52:45,143 - INFO - Monitoring wallet: TKVpWP26gBbpXsrxXGkKnEnnZF6HFcSJMj
+2025-09-24 13:52:45,144 - INFO - Telegram Chat ID: -1003157930592
+2025-09-24 13:52:45,144 - INFO - Starting TronScan Transaction Monitor...
+2025-09-24 13:52:46,212 - INFO - Telegram notification sent successfully
+2025-09-24 13:52:46,214 - INFO - Checking for new transactions...
+2025-09-24 13:52:47,876 - INFO - Fetched 4 total token transfers from TronScan
+2025-09-24 13:52:48,974 - INFO - Fetched 4 transactions from TronScan
+2025-09-24 13:52:48,976 - INFO - No new transactions found
+2025-09-24 13:52:48,976 - INFO - Waiting 60 seconds until next check...
+2025-09-24 13:52:48,977 - ERROR - Unexpected error in main loop: 'str' object cannot be interpreted as an integer
+2025-09-24 13:53:34,445 - INFO - Monitoring wallet: TKVpWP26gBbpXsrxXGkKnEnnZF6HFcSJMj
+2025-09-24 13:53:34,446 - INFO - Telegram Chat ID: -1003157930592
+2025-09-24 13:53:34,446 - INFO - Starting TronScan Transaction Monitor...
+2025-09-24 13:53:35,445 - INFO - Telegram notification sent successfully
+2025-09-24 13:53:35,448 - INFO - Checking for new transactions...
+2025-09-24 13:53:36,908 - INFO - Fetched 4 total token transfers from TronScan
+2025-09-24 13:53:37,874 - INFO - Fetched 4 transactions from TronScan
+2025-09-24 13:53:37,876 - INFO - No new transactions found
+2025-09-24 13:53:37,876 - INFO - Waiting 60 seconds until next check...
+2025-09-24 13:53:52,342 - INFO - Monitor stopped by user
+2025-09-24 13:53:54,428 - INFO - Monitoring wallet: TKVpWP26gBbpXsrxXGkKnEnnZF6HFcSJMj
+2025-09-24 13:53:54,429 - INFO - Telegram Chat ID: -1003157930592
+2025-09-24 13:53:54,429 - INFO - Starting TronScan Transaction Monitor...
+2025-09-24 13:53:55,451 - INFO - Telegram notification sent successfully
+2025-09-24 13:53:55,459 - INFO - Checking for new transactions...
+2025-09-24 13:53:56,973 - INFO - Fetched 4 total token transfers from TronScan
+2025-09-24 13:53:57,997 - INFO - Fetched 4 transactions from TronScan
+2025-09-24 13:53:57,998 - INFO - No new transactions found
+2025-09-24 13:53:57,999 - INFO - Waiting 60 seconds until next check...
+2025-09-24 13:54:58,001 - INFO - Checking for new transactions...
+2025-09-24 13:54:59,489 - INFO - Fetched 4 total token transfers from TronScan
+2025-09-24 13:55:00,467 - INFO - Fetched 4 transactions from TronScan
+2025-09-24 13:55:00,469 - INFO - No new transactions found
+2025-09-24 13:55:00,470 - INFO - Waiting 60 seconds until next check...
+2025-09-24 13:55:02,635 - INFO - Monitor stopped by user
